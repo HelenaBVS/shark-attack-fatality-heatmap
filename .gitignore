@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+rows_with_nans.csv
